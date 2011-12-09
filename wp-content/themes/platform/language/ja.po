@@ -1,0 +1,651 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PlatformPro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-20 15:10+0100\n"
+"PO-Revision-Date: 2011-12-09 20:13+0900\n"
+"Last-Translator: Toshi Oshio <toshifme@gmail.com>\n"
+"Language-Team: OfficeTO Inc. <toshifme@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:12
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "この投稿はパスワードで保護されています。コメントを閲覧するには、パスワードを入力してください。"
+
+#: comments.php:33
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> 古いコメント"
+
+#: comments.php:34
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "新しいコメント <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: searchform.php:14
+msgid "Search"
+msgstr "検索"
+
+#: template.dwidgets.php:3
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: template.dwidgets.php:12
+msgid "Articles"
+msgstr "記事"
+
+#: template.dwidgets.php:21
+msgid "Calendar"
+msgstr "カレンダー"
+
+#: template.dwidgets.php:30
+msgid "Meta"
+msgstr "メタ"
+
+#: template.dwidgets.php:35
+msgid "Entries (RSS)"
+msgstr "エントリー（RSS）"
+
+#: template.postloop.php:45
+msgid "Permanent Link To"
+msgstr "パーマリンク先"
+
+#: template.postloop.php:96
+msgid "<p>Continue reading &raquo;</p>"
+msgstr "<p>続けて読む &raquo;</p>"
+
+#: template.postloop.php:100
+msgid "<p class=\"content-pagination\"><span class=\"cp-desc\">pages:</span>"
+msgstr "<p class=\"content-pagination\"><span class=\"cp-desc\">ページ：</span>"
+
+#: template.postloop.php:103
+msgid "Edit Page"
+msgstr "ページの編集"
+
+#: template.postloop.php:103
+msgid "Edit Post"
+msgstr "投稿の編集"
+
+#: template.postloop.php:110
+msgid "Tagged with: "
+msgstr "タグ付け："
+
+#: template.postloop.php:134
+msgid "Link To"
+msgstr "リンク先"
+
+#: template.postloop.php:173
+msgid "No results for "
+msgstr "結果なし："
+
+#: template.postloop.php:175
+msgid "Try another search?"
+msgstr "他の検索をしますか？"
+
+#: template.postloop.php:177
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした。"
+
+#: template.postloop.php:179
+msgid "Sorry, what you are looking for isn't here."
+msgstr "申し訳ありませんが、あなたが探しているものはここでは見つかりませんでした。"
+
+#: admin/actions.admin.php:27
+msgid "<div class=\"config-error\"><h2>PHP Version Problem</h2>Looks like you are using PHP version: <strong>"
+msgstr "div class=\"config-error\"><h2>PHPバージョンによる問題</h2>あなたが現在利用しているPHPのバージョン：<strong>"
+
+#: admin/class.options.metapanel.php:165
+msgid "Save Meta Settings"
+msgstr "メタ設定を保存する"
+
+#: admin/class.options.metapanel.php:277
+#: admin/class.options.metapanel.php:316
+#: admin/class.options.ui.php:683
+msgid "SELECT"
+msgstr "選択"
+
+#: admin/class.options.ui.php:87
+msgid "Settings"
+msgstr "設定"
+
+#: admin/class.options.ui.php:108
+msgid "Docs"
+msgstr "ドキュメント"
+
+#: admin/class.options.ui.php:109
+msgid "Forum"
+msgstr "フォーラム"
+
+#: admin/class.options.ui.php:115
+#: admin/class.options.ui.php:1217
+msgid "Save Options"
+msgstr "オプションを保存"
+
+#: admin/class.options.ui.php:689
+msgid "No sets have been created and added to a post yet!"
+msgstr "新規作成および投稿に追加されたセットはまだありません。"
+
+#: admin/class.options.ui.php:1216
+msgid "Customer Feedback Form &raquo;"
+msgstr "カスタマーフィードバックフォーム &raquo;"
+
+#: admin/class.options.ui.php:1224
+msgid "Restore Settings"
+msgstr "リストアの設定"
+
+#: admin/class.options.ui.php:1237
+msgid "Export Settings"
+msgstr "エクスポートの設定"
+
+#: admin/class.options.ui.php:1244
+msgid "Import Settings"
+msgstr "インポートの設定"
+
+#: includes/class.types.php:59
+#: includes/class.types.php:60
+msgid "Add New "
+msgstr "新規追加"
+
+#: includes/class.types.php:61
+#: includes/class.types.php:62
+msgid "Edit "
+msgstr "編集"
+
+#: includes/class.types.php:63
+#: includes/class.types.php:64
+msgid "View "
+msgstr "表示"
+
+#: includes/config.options.php:74
+msgid "Reset Template Section Order"
+msgstr "テンプレートセクションの表示順をリセット"
+
+#: includes/config.options.php:106
+msgid "Reset Layout"
+msgstr "レイアウトをリセット"
+
+#: includes/config.widgets.php:14
+msgid "PageLines Pro - Grandchild Nav"
+msgstr "PageLines Pro - ３階層ナビ"
+
+#: includes/config.widgets.php:59
+msgid "There are no options for this widget."
+msgstr "このウィジェット用のオプション設定はありません。"
+
+#: includes/library.shortcodes.php:99
+#, php-format
+msgid "Visit %s&#8217;s website"
+msgstr "%s のウェブサイトを表示する"
+
+#: includes/library.shortcodes.php:145
+msgid "Leave a Comment"
+msgstr "コメントを残す"
+
+#: includes/library.shortcodes.php:146
+msgid "1 Comment"
+msgstr "1コメント"
+
+#: includes/library.shortcodes.php:147
+msgid "% Comments"
+msgstr "% コメント"
+
+#: includes/library.shortcodes.php:181
+msgid "Tagged With: "
+msgstr "タグ："
+
+#: includes/library.shortcodes.php:230
+msgid "<span class=\"editpage\">Edit</span>"
+msgstr "<span class=\"editpage\">編集</span>"
+
+#: includes/library.templates.php:164
+#, php-format
+msgid "Page %s"
+msgstr "%s ページ"
+
+#: includes/library.templates.php:331
+msgid "Home"
+msgstr "ホーム"
+
+#: includes/library.templates.php:354
+#: includes/library.templates.php:364
+msgid "On"
+msgstr "日付："
+
+#: includes/library.templates.php:355
+#: includes/library.templates.php:360
+msgid "By"
+msgstr "By"
+
+#: includes/library.templates.php:372
+msgid "In"
+msgstr "カテゴリー："
+
+#: includes/library.templates.php:421
+msgid "Continue Reading"
+msgstr "続きを読む"
+
+#: includes/library.templates.php:421
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: includes/library.templates.php:425
+msgid "View"
+msgstr "表示"
+
+#: includes/library.templates.php:446
+msgid "PageLines Settings"
+msgstr "PageLines設定"
+
+#: sections/section.banners.php:15
+msgid "PageLines Banners"
+msgstr "PageLinesバナー"
+
+#: sections/section.banners.php:41
+msgid "Banners"
+msgstr "バナー"
+
+#: sections/section.banners.php:42
+msgid "Banner"
+msgstr "バナー"
+
+#: sections/section.banners.php:47
+msgid "Banner Sets"
+msgstr "バナーセット"
+
+#: sections/section.banners.php:48
+msgid "Banner Set"
+msgstr "バナーセット"
+
+#: sections/section.banners.php:196
+msgid "[Edit Banner]"
+msgstr "[バナーを編集]"
+
+#: sections/section.breadcrumb.php:15
+msgid "Breadcrumb"
+msgstr "パンくずリスト"
+
+#: sections/section.breadcrumb.php:48
+msgid "Please activate the <strong>Breadcrumb-NavXT</strong> plug-in to use the section."
+msgstr "セクションで利用するには、<strong>Breadcrumb-NavXT</strong>プラグインを有効化してください。"
+
+#: sections/section.callout.php:15
+msgid "Callout Section"
+msgstr "吹き出しセクション"
+
+#: sections/section.callout.php:38
+msgid "This is the \"Callout Section\""
+msgstr "これは\"Callout Section\"です。"
+
+#: sections/section.callout.php:41
+msgid "Perfect for a call to action or a special offer."
+msgstr "アクション誘引や特典提供にぴったり"
+
+#: sections/section.footer_nav.php:15
+msgid "Simple Footer Navigation"
+msgstr "シンプルフッターナビゲーション"
+
+#: sections/section.footer_nav.php:20
+msgid "A single column footer for a simpler footer navigation"
+msgstr "よりシンプルなフッターナビゲーション用のシングルカラムフッター"
+
+#: sections/section.footer_nav.php:33
+msgid "Page Navigation in Simple Footer Section"
+msgstr "よりシンプルなフッターセクションのページナビゲーション"
+
+#: sections/section.highlight.php:15
+msgid "Highlight"
+msgstr "ハイライト"
+
+#: sections/section.news.php:15
+msgid "News Banner Section"
+msgstr "ニュースバナーセクション"
+
+#: sections/section.news.php:36
+msgid "Latest News"
+msgstr "最新ニュース"
+
+#: sections/section.news.php:43
+msgid "Please activate the \"News-Ticker\" Plugin to use this section."
+msgstr "セクションで利用するには、\"News-Ticker\" プラグインを有効化してください。"
+
+#: sections/section.secondnav.php:15
+msgid "Secondary Nav"
+msgstr "第２ナビゲーション"
+
+#: sections/section.soapbox.php:15
+msgid "Soapboxes"
+msgstr "お立ち台"
+
+#: sections/section.soapbox.php:255
+msgid "<small>[Edit Box]</small>"
+msgstr "<small>[ボックスの編集]</small>"
+
+#: sections/section.twitterbar.php:15
+msgid "Twitter Bar"
+msgstr "ツイッターバー"
+
+#: sections/section.twitterbar.php:44
+msgid "Please install and activate the \"Twitter for WordPress\" plugin to use this section."
+msgstr "このセクションで利用するには、\"Twitter for WordPress\"プラグインを有効化してください。"
+
+#: sections/section.twitterbar.php:49
+msgid "Set your Twitter account name in your settings to use the TwitterBar Section."
+msgstr "ツイッターバーセクションを利用するには、ツイッターアカウント名を設定しておいてください。"
+
+#: sections/boxes/section.boxes.php:15
+msgid "PageLines Boxes"
+msgstr "PageLinesボックス"
+
+#: sections/boxes/section.boxes.php:40
+msgid "Boxes"
+msgstr "ボックス"
+
+#: sections/boxes/section.boxes.php:41
+msgid "Box"
+msgstr "ボックス"
+
+#: sections/boxes/section.boxes.php:46
+msgid "Box Sets"
+msgstr "ボックスセット"
+
+#: sections/boxes/section.boxes.php:47
+msgid "Box Set"
+msgstr "ボックスセット"
+
+#: sections/boxes/section.boxes.php:220
+msgid "[Edit Box]"
+msgstr "[ボックスの編集]"
+
+#: sections/brandnav/section.brandnav.php:13
+msgid "BrandNav Section"
+msgstr "ブランドナビセクション"
+
+#: sections/carousel/section.carousel.php:15
+msgid "PageLines Carousel"
+msgstr "PageLinesギャラリー"
+
+#: sections/carousel/section.carousel.php:123
+msgid "The plugin for the selected carousel mode (NextGen-Gallery or FlickrRSS) needs to be installed and activated."
+msgstr "選択したギャラリー表示モード (NextGen-GalleryやFlickrRSS)用のプラグインのインストールと有効化が必要です。"
+
+#: sections/features/section.features.php:15
+msgid "PageLines Features"
+msgstr "PageLinesフィーチャー"
+
+#: sections/features/section.features.php:38
+msgid "Features"
+msgstr "フィーチャー"
+
+#: sections/features/section.features.php:39
+msgid "Feature"
+msgstr "フィーチャー"
+
+#: sections/features/section.features.php:45
+msgid "Feature Sets"
+msgstr "フィーチャーセット"
+
+#: sections/features/section.features.php:46
+msgid "Feature Set"
+msgstr "フィーチャーセット"
+
+#: sections/features/section.features.php:245
+msgid "feature "
+msgstr "フィーチャー"
+
+#: sections/features/section.features.php:358
+#: sections/sidebars/section.footcols.php:93
+msgid "More"
+msgstr "続き"
+
+#: sections/features/section.features.php:391
+msgid "<span>Edit</span>"
+msgstr "<span>編集</span>"
+
+#: sections/features/section.features.php:418
+msgid "No feature posts matched this pages criteria"
+msgstr "このページのタイプにあるフィーチャー投稿はありませんでした。"
+
+#: sections/nav/section.nav.php:18
+msgid "Navigation"
+msgstr "ナビゲーション"
+
+#: sections/nav/section.nav.php:47
+msgid "Primary Website Navigation"
+msgstr "メインのウェブサイトナビゲーション"
+
+#: sections/sidebars/section.footcols.php:15
+msgid "Footer Sidebars <small>(5-Column)</small>"
+msgstr "フッターサイドバー<small>（５カラム）</small>"
+
+#: sections/sidebars/section.footcols.php:35
+msgid "Use this sidebar if you want to use widgets in your footer columns instead of the default."
+msgstr "フッターカラムでデフォルトではなくウィジェットを使う場合はこのサイドバーをご利用ください。"
+
+#: sections/sidebars/section.footcols.php:43
+msgid "Page Navigation in Footer Columns"
+msgstr "フッターカラムのページナビゲーション"
+
+#: sections/sidebars/section.footcols.php:71
+msgid "Pages"
+msgstr "ページ"
+
+#: sections/sidebars/section.footcols.php:78
+msgid "The Latest"
+msgstr "最新"
+
+#: sections/sidebars/section.morefoot.php:15
+msgid "MoreFoot Sidebars <small>(3-Column)</small>"
+msgstr "追加フッターのサイドバー<small>（３カラム）</small>"
+
+#: sections/sidebars/section.morefoot.php:33
+msgid "Left sidebar in \"morefoot\" element enabled in options."
+msgstr "オプションで有効化された「追加フッター」の左サイドバー"
+
+#: sections/sidebars/section.morefoot.php:41
+msgid "Middle sidebar in \"morefoot\" element enabled in options."
+msgstr "オプションで有効化された「追加フッター」の中央サイドバー"
+
+#: sections/sidebars/section.morefoot.php:49
+msgid "Right sidebar in \"morefoot\" element enabled in options."
+msgstr "オプションで有効化された「追加フッター」の右サイドバー"
+
+#: sections/sidebars/section.morefoot.php:74
+msgid "Looking for something?"
+msgstr "なにかお探しですか？"
+
+#: sections/sidebars/section.morefoot.php:75
+msgid "Use the form below to search the site:"
+msgstr "下にあるフォームでこのサイトを検索してください。"
+
+#: sections/sidebars/section.morefoot.php:78
+msgid "Still not finding what you're looking for? Drop a comment on a post or contact us so we can take care of it!"
+msgstr "まだ探しているものが見つからないですか？投稿にコメントを残していただくか、ご連絡をいただけますか？"
+
+#: sections/sidebars/section.morefoot.php:91
+msgid "Visit our friends!"
+msgstr "友人サイトもどうぞ！"
+
+#: sections/sidebars/section.morefoot.php:91
+msgid "A few highly recommended friends..."
+msgstr "厳選されたおすすめの友人たち…"
+
+#: sections/sidebars/section.morefoot.php:104
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: sections/sidebars/section.morefoot.php:104
+msgid "All entries, chronologically..."
+msgstr "時間順のすべての投稿…"
+
+#: sections/sidebars/section.sb_content.php:15
+msgid "Content Sidebar"
+msgstr "コンテンツサイドバー"
+
+#: sections/sidebars/section.sb_content.php:21
+msgid "Displays a widgetized sidebar inside the main content area. Set it up in the widgets panel"
+msgstr "メインコンテンツエリアの中のウィジェット化されたサイドバーを表示します。ウィジェットパネルで設定してください。"
+
+#: sections/sidebars/section.sb_fullwidth.php:15
+msgid "Full Width Sidebar"
+msgstr "全幅サイドバー"
+
+#: sections/sidebars/section.sb_fullwidth.php:22
+msgid "A widgetized full width sidebar. This sidebar will span the entire width of your website."
+msgstr "ウィジェット化された全幅サイドバー。このサイドバーはウェブサイト全体の横幅に広がります。"
+
+#: sections/sidebars/section.sb_primary.php:15
+msgid "Primary Sidebar"
+msgstr "第１サイドバー"
+
+#: sections/sidebars/section.sb_secondary.php:15
+msgid "Secondary Sidebar"
+msgstr "第２サイドバー"
+
+#: sections/sidebars/section.sb_tertiary.php:15
+msgid "Tertiary Sidebar"
+msgstr "第３サイドバー"
+
+#: sections/sidebars/section.sb_universal.php:15
+msgid "Universal Sidebar"
+msgstr "ユニバーサルサイドバー"
+
+#: sections/wp/section.branding.php:15
+msgid "Site Branding"
+msgstr "サイトブランディング"
+
+#: sections/wp/section.comments.php:15
+msgid "Comment Form"
+msgstr "コメントフォーム"
+
+#: sections/wp/section.content.php:15
+msgid "Content Area"
+msgstr "コンテンツエリア"
+
+#: sections/wp/section.noposts.php:15
+msgid "No Posts"
+msgstr "投稿なし"
+
+#: sections/wp/section.noposts.php:36
+msgid "Direct Previewing <em>of</em> \"Special Post Types\" Not Available... Yet"
+msgstr "「スペシャル投稿タイプ」のダイレクトプレビューはまだありません…"
+
+#: sections/wp/section.noposts.php:37
+msgid "Sorry, direct previewing of special \"post types\" such as <strong>\"features\"</strong> or <strong>\"boxes\"</strong> isn't unavailable. This WordPress functionality is new and rapidly developing, so it should be available soon."
+msgstr "<strong>「フィーチャー」</strong>や<strong>「ボックス」</strong>などの特別な「投稿タイプ」のダイレクトプレビュー機能はまだありません。WordPressの新機能で現在急いで開発中です。まもなくご提供できる予定です。"
+
+#: sections/wp/section.noposts.php:39
+msgid "To preview a \"custom post type\" just view a page with that \"section\" on it."
+msgstr "「カスタム投稿タイプ」のプレビューには、その「セクション」を使っているページを表示してください。"
+
+#: sections/wp/section.noposts.php:44
+msgid "404!"
+msgstr "404エラー！"
+
+#: sections/wp/section.noposts.php:45
+msgid "Sorry, This Page Does not exist."
+msgstr "申し訳ありませんが、このページはありません。"
+
+#: sections/wp/section.noposts.php:45
+msgid "Go"
+msgstr "進む"
+
+#: sections/wp/section.noposts.php:45
+msgid "home"
+msgstr "ホーム"
+
+#: sections/wp/section.noposts.php:45
+msgid "or try a search?"
+msgstr "または検索を試してみますか？"
+
+#: sections/wp/section.pagination.php:15
+msgid "Pagination"
+msgstr "ページネーション"
+
+#: sections/wp/section.pagination.php:37
+msgid "&larr; Previous Entries"
+msgstr "&larr; 前の投稿"
+
+#: sections/wp/section.pagination.php:38
+msgid "Next Entries &rarr;"
+msgstr "次の投稿 &rarr;"
+
+#: sections/wp/section.postauthor.php:15
+msgid "Post Author Info"
+msgstr "投稿者情報を投稿する"
+
+#: sections/wp/section.postauthor.php:38
+msgid "About The Author"
+msgstr "投稿者について"
+
+#: sections/wp/section.postauthor.php:45
+msgid "Visit Authors Website"
+msgstr "投稿者のサイトを表示"
+
+#: sections/wp/section.postloop.php:15
+msgid "Main Content <small>(The Loop - Required)</small>"
+msgstr "メインコンテンツ<small>（ループ -- 必須）</small>"
+
+#: sections/wp/section.postnav.php:15
+msgid "Post Navigation"
+msgstr "投稿ナビゲーション"
+
+#: sections/wp/section.postsinfo.php:15
+msgid "Posts Info"
+msgstr "投稿の情報"
+
+#: sections/wp/section.postsinfo.php:39
+msgid "Search results for "
+msgstr "検索結果："
+
+#: sections/wp/section.postsinfo.php:42
+msgid "Currently viewing the category: "
+msgstr "現在閲覧しているカテゴリー"
+
+#: sections/wp/section.postsinfo.php:45
+msgid "Currently viewing the tag: "
+msgstr "現在閲覧しているタグ"
+
+#: sections/wp/section.postsinfo.php:52
+msgid "Posts by:"
+msgstr "投稿者："
+
+#: sections/wp/section.postsinfo.php:55
+msgid "From the daily archives:"
+msgstr "日次アーカイブから"
+
+#: sections/wp/section.postsinfo.php:58
+msgid "From the monthly archives:"
+msgstr "月次アーカイブから"
+
+#: sections/wp/section.postsinfo.php:61
+msgid "From the yearly archives:"
+msgstr "年次アーカイブから"
+
+#: sections/wp/section.postsinfo.php:64
+msgid "Viewing archives for "
+msgstr "閲覧中のアーカイブ："
+
+#: sections/wp/section.sharebar.php:15
+msgid "Content Sharing Tool"
+msgstr "コンテンツシェアツール"
+
+#: sections/wp/section.sharebar.php:46
+#: sections/wp/section.sharebar.php:50
+#: sections/wp/section.sharebar.php:56
+#: sections/wp/section.sharebar.php:60
+#: sections/wp/section.sharebar.php:64
+#: sections/wp/section.sharebar.php:68
+#: sections/wp/section.sharebar.php:72
+msgid "Share on"
+msgstr "シェア先："
+
