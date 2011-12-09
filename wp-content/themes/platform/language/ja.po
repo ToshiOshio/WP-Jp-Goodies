@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PlatformPro\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-05-20 15:10+0100\n"
-"PO-Revision-Date: 2011-12-09 20:13+0900\n"
+"PO-Revision-Date: 2011-12-10 01:01+0900\n"
 "Last-Translator: Toshi Oshio <toshifme@gmail.com>\n"
 "Language-Team: OfficeTO Inc. <toshifme@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -405,7 +405,7 @@ msgstr "フィーチャー"
 #: sections/features/section.features.php:358
 #: sections/sidebars/section.footcols.php:93
 msgid "More"
-msgstr "続き"
+msgstr "もっと"
 
 #: sections/features/section.features.php:391
 msgid "<span>Edit</span>"
@@ -441,7 +441,7 @@ msgstr "ページ"
 
 #: sections/sidebars/section.footcols.php:78
 msgid "The Latest"
-msgstr "最新"
+msgstr "最新の投稿"
 
 #: sections/sidebars/section.morefoot.php:15
 msgid "MoreFoot Sidebars <small>(3-Column)</small>"
