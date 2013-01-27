@@ -1,0 +1,450 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Analyticator 6.4.1\n"
+"POT-Creation-Date: 2013-01-27 18:33+0900\n"
+"PO-Revision-Date: 2013-01-27 18:33+0900\n"
+"Last-Translator: Toshi Oshio <oshio@officeto.net>\n"
+"Language-Team: Toshi Oshio <toshifme@gmail.com>\n"
+"Language: Japanese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../google-analyticator.php:118 ../google-analyticator.php:389
+msgid "Google Analyticator Settings"
+msgstr "Google Analyticator 設定"
+
+#: ../google-analyticator.php:232
+msgid "Settings"
+msgstr "設定"
+
+#: ../google-analyticator.php:233
+msgid "Reset"
+msgstr "リセット"
+
+#: ../google-analyticator.php:376
+msgid "Google Analyticator settings saved."
+msgstr "Google Analyticator設定を保存しました、"
+
+#: ../google-analyticator.php:399
+msgid "Google Analytics integration is currently <strong>DISABLED</strong>."
+msgstr "Google Analyticsとの統合は現在<strong>無効</strong>です。"
+
+#: ../google-analyticator.php:404
+msgid ""
+"Google Analytics integration is currently enabled, but you did not enter a "
+"UID. Tracking will not occur."
+msgstr ""
+"Google Analyticsとの統合は現在有効ですが、UIDが入力されていません。アクセスロ"
+"グ取得は行なわれません。"
+
+#: ../google-analyticator.php:411
+msgid "Basic Settings"
+msgstr "基本設定"
+
+#: ../google-analyticator.php:417
+msgid "Google Analytics logging is"
+msgstr "Google Analytics ログ解析"
+
+#: ../google-analyticator.php:426 ../google-analyticator.php:589
+#: ../google-analyticator.php:612 ../google-analyticator.php:734
+msgid "Enabled"
+msgstr "有効"
+
+#: ../google-analyticator.php:431 ../google-analyticator.php:594
+#: ../google-analyticator.php:617 ../google-analyticator.php:739
+msgid "Disabled"
+msgstr "無効"
+
+#: ../google-analyticator.php:439
+msgid "Google Analytics UID"
+msgstr "Google Analytics UID"
+
+#: ../google-analyticator.php:475
+msgid "Tracking Settings"
+msgstr "トラッキング設定"
+
+#: ../google-analyticator.php:480
+msgid "Track all logged in WordPress users"
+msgstr "すべてのWordPressユーザをトラッキング"
+
+#: ../google-analyticator.php:489 ../google-analyticator.php:518
+msgid "Yes"
+msgstr "する"
+
+#: ../google-analyticator.php:494 ../google-analyticator.php:513
+msgid "No"
+msgstr "しない"
+
+#: ../google-analyticator.php:499
+msgid ""
+"Selecting \"no\" to this option will prevent logged in WordPress users from "
+"showing up on your Google Analytics reports. This setting will prevent "
+"yourself or other users from showing up in your Analytics reports. Use the "
+"next setting to determine what user groups to exclude."
+msgstr ""
+"「しない」をこのオプションで選択すると、Google Analyticsのレポートから指定し"
+"たログイン済みのWordPressのユーザのログが除外されるようになります。この設定を"
+"利用することで、あなた自身もしくは他のユーザのログをAnalyticsのレポートから除"
+"外できます。除外するユーザグループを以下で設定してください。"
+
+#: ../google-analyticator.php:504
+msgid "Anonymize IP Addresses"
+msgstr "IPアドレスを秘匿化"
+
+#: ../google-analyticator.php:523
+msgid ""
+"By selecting \"Yes\", This tells Google Analytics to anonymize the "
+"information sent by the tracker objects by removing the last octet of the IP "
+"address prior to its storage. Note that this will slightly reduce the "
+"accuracy of geographic reporting."
+msgstr ""
+"「する」をこのオプションで選択すると、IPアドレスの最後の８桁を削除したトラッ"
+"キング情報をGoogle Analyticsに送信し、取得情報を一部秘匿にします。この場合、"
+"ロケーション情報のデータの精度が若干下がることにご留意ください。"
+
+#: ../google-analyticator.php:528
+msgid "User roles to not track"
+msgstr "トラッキングをしない権限グループ"
+
+#: ../google-analyticator.php:547
+msgid ""
+"Specifies the user roles to not include in your WordPress Analytics report. "
+"If a user is logged into WordPress with one of these roles, they will not "
+"show up in your Analytics report."
+msgstr ""
+"WordPress Analyticsのレポートに含めない権限グループを選択します。選択された権"
+"限グループでWordPressにログインしている場合、そのアクセスはAnalyticsのレポー"
+"トには現れません。"
+
+#: ../google-analyticator.php:552
+msgid "Method to prevent tracking"
+msgstr "トラッキングからの除外方法"
+
+#: ../google-analyticator.php:561
+msgid "Remove"
+msgstr "削除"
+
+#: ../google-analyticator.php:566
+msgid "Use 'admin' variable"
+msgstr "'admin'変数を利用"
+
+#: ../google-analyticator.php:570
+msgid ""
+"Selecting the \"Remove\" option will physically remove the tracking code "
+"from logged in users. Selecting the \"Use 'admin' variable\" option will "
+"assign a variable called 'admin' to logged in users. This option will allow "
+"Google Analytics' site overlay feature to work, but you will have to "
+"manually configure Google Analytics to exclude tracking from pageviews with "
+"the 'admin' variable."
+msgstr ""
+"「削除」オプションを選択すると、ログインしたユーザのページから物理的にトラッ"
+"キングコードを削除します。「'admin'変数を利用」を選択すると、ログインしたユー"
+"ザに対して「admin」と呼ばれる変数が割り当てられます。このオプションを利用して"
+"も Google Analyticsのオーバーレイ機能は機能しますが、'admin'変数を伴うページ"
+"ビューをトラッキングから除外するには、手動でGoogle Analyticsを設定する必要が"
+"あります。"
+
+#: ../google-analyticator.php:580
+msgid "Outbound link tracking"
+msgstr "アウトバウンドリンクのトラッキング"
+
+#: ../google-analyticator.php:598
+msgid ""
+"Disabling this option will turn off the tracking of outbound links. It's "
+"recommended not to disable this option unless you're a privacy advocate (now "
+"why would you be using Google Analytics in the first place?) or it's causing "
+"some kind of weird issue."
+msgstr ""
+"このオプションを無効にすると、アウトバウンドリンクのトラッキングが無効になり"
+"ます。何よりもプライバシーを重視する場合（そうであるならば、なぜあなたはそも"
+"そもGoogle Analyticsを利用しているのでしょうか？）、もしくはそれが何か大きな"
+"問題を引き起こしている場合を除き、このオプションを無効にしないことを推奨しま"
+"す。"
+
+#: ../google-analyticator.php:603
+msgid "Event tracking"
+msgstr "イベントトラッキング"
+
+#: ../google-analyticator.php:621
+msgid ""
+"Enabling this option will treat outbound links and downloads as events "
+"instead of pageviews. Since the introduction of <a href=\"https://developers."
+"google.com/analytics/devguides/collection/gajs/eventTrackerGuide\">event "
+"tracking in Analytics</a>, this is the recommended way to track these types "
+"of actions. Only disable this option if you must use the old pageview "
+"tracking method."
+msgstr ""
+"このオプションを有効にすると、外部へのリンククリックやダウンロードをページ"
+"ビューではなくイベントとして扱うようになります。この機能は、<a href="
+"\"https://developers.google.com/analytics/devguides/collection/gajs/"
+"eventTrackerGuide\">event tracking in Analytics</a>で紹介されて以来、この種の"
+"アクションを計測するのに推奨されている方法です。どうしても以前のページビュー"
+"によるトラッキング手法を使わざるを得ないときのみ、この設定を無効にしてくださ"
+"い。"
+
+#: ../google-analyticator.php:626
+msgid "Download extensions to track"
+msgstr "ダウンロードとしてトラッキングする拡張子"
+
+#: ../google-analyticator.php:635
+msgid ""
+"Enter any extensions of files you would like to be tracked as a download. "
+"For example to track all MP3s and PDFs enter <strong>mp3,pdf</strong>. "
+"<em>Outbound link tracking must be enabled for downloads to be tracked.</em>"
+msgstr ""
+"ダウンロードとしてトラックさせたい任意の拡張子を入力してください。例えば、全"
+"てのMP3とPDFをトラッキングするには、<strong>mp3,pdf</strong>と入力します。"
+"<em>ダウンロードをトラッキングする場合は、アウトバウンドリンクのトラッキング"
+"を必ず有効にしてください。</em>"
+
+#: ../google-analyticator.php:640
+msgid "Prefix external links with"
+msgstr "外部リンクのプレフィックス"
+
+#: ../google-analyticator.php:649
+msgid ""
+"Enter a name for the section tracked external links will appear under. This "
+"option has no effect if event tracking is enabled."
+msgstr ""
+"トラッキングされた外部リンクが表示されるセクションの名前を入力してください。"
+"このオプションはイベントトラッキングが有効の場合、意味を持ちません。"
+
+#: ../google-analyticator.php:654
+msgid "Prefix download links with"
+msgstr "ダウンロードリンクのプレフィックス"
+
+#: ../google-analyticator.php:663
+msgid ""
+"Enter a name for the section tracked download links will appear under. This "
+"option has no effect if event tracking is enabled."
+msgstr ""
+"トラッキングされたダウンロードが表示されるセクションの名前を入力してくださ"
+"い。このオプションはイベントトラッキングが有効の場合、意味を持ちません。"
+
+#: ../google-analyticator.php:668
+msgid "Google Adsense ID"
+msgstr "Google Adsense ID"
+
+#: ../google-analyticator.php:677
+msgid ""
+"Enter your Google Adsense ID assigned by Google Analytics in this box. This "
+"enables Analytics tracking of Adsense information if your Adsense and "
+"Analytics accounts are linked."
+msgstr ""
+"Google Analyticsより割り当てられたGoogle Adsense IDをこのボックスに入力してく"
+"ださい。これにより、AdsenseとAnalyticsのアカウントがリンクされている場合、"
+"Adsense情報をAnalyticsがトラッキングできるようになります。"
+
+#: ../google-analyticator.php:687 ../google-analyticator.php:701
+msgid "Additional tracking code"
+msgstr "追加トラッキングコード"
+
+#: ../google-analyticator.php:687
+msgid "before tracker initialization"
+msgstr "トラッカーの初期化前"
+
+#: ../google-analyticator.php:696
+msgid ""
+"Enter any additional lines of tracking code that you would like to include "
+"in the Google Analytics tracking script. The code in this section will be "
+"displayed <strong>before</strong> the Google Analytics tracker is "
+"initialized."
+msgstr ""
+"Google Analyticsトラッキングスクリプトに追加したいコードを入力してください。"
+"ここに設定されたコードはGoogle Analyticsとラッカーが<strong>初期化される前</"
+"strong>に表示されるようになります。"
+
+#: ../google-analyticator.php:701
+msgid "after tracker initialization"
+msgstr "トラッカーの初期化後"
+
+#: ../google-analyticator.php:710
+msgid ""
+"Enter any additional lines of tracking code that you would like to include "
+"in the Google Analytics tracking script. The code in this section will be "
+"displayed <strong>after</strong> the Google Analytics tracker is initialized."
+msgstr ""
+"Google Analyticsトラッキングスクリプトに追加したいコードを入力してください。"
+"ここに設定されたコードはGoogle Analyticsとラッカーが<strong>初期化された後</"
+"strong>に表示されるようになります。"
+
+#: ../google-analyticator.php:718
+msgid ""
+"You have not authenticated with Google - you cannot use dashboard widgets! "
+"Reset the plugin to authenticate.."
+msgstr ""
+"Googleの認証が完了していませんので、ダッシュボードウィジェットがご利用になれ"
+"ません。プラグインをリセットして、認証を行なってください。"
+
+#: ../google-analyticator.php:725
+msgid "Include widgets"
+msgstr "ウィジェットの追加"
+
+#: ../google-analyticator.php:743
+msgid ""
+"Disabling this option will completely remove the Dashboard Summary widget "
+"and the theme Stats widget. Use this option if you would prefer to not see "
+"the widgets."
+msgstr ""
+"このオプションを無効にすると、ダッシュボードサマリのウィジェットとテーマの統"
+"計ウィジェットが完全に削除されます。これらのウィジェットを目にしたくない場合"
+"は、このオプションを利用してください。"
+
+#: ../google-analyticator.php:748
+msgid "User roles that can see the dashboard widget"
+msgstr "ダッシュボードウィジェットを閲覧できる権限グループ"
+
+#: ../google-analyticator.php:767
+msgid ""
+"Specifies the user roles that can see the dashboard widget. If a user is not "
+"in one of these role groups, they will not see the dashboard widget."
+msgstr ""
+"ダッシュボードウィジェットを閲覧できる権限グループを設定します。ログインした"
+"ユーザがここで設定された権限グループのいずれにも属していない場合、ダッシュ"
+"ボードウィジェットを閲覧できません。"
+
+#: ../google-analyticator.php:773
+msgid "Save Changes"
+msgstr "変更を保存する"
+
+#: ../google-analyticator.php:776
+msgid "Deauthorize &amp; Reset Google Analyticator."
+msgstr "認証を解除しGoogle Analyticatorをリセット"
+
+#: ../google-analyticator.php:993
+msgid ""
+"Tracking code is hidden, since the settings specify not to track admins. "
+"Tracking is occurring for non-admins."
+msgstr ""
+"adminをトラッキングしないように設定されているため、トラッキングコードは非表示"
+"になっています。admin以外をトラッキングします。"
+
+#: ../google-analytics-stats-widget.php:12
+msgid "Displays Stat Info From Google Analytics"
+msgstr "Google Analyticsの統計情報を表示します。"
+
+#: ../google-analytics-stats-widget.php:14
+msgid "Google Analytics Stats"
+msgstr "Google Analytics 統計情報"
+
+#: ../google-analytics-stats-widget.php:106
+msgid "Title"
+msgstr "タイトル"
+
+#: ../google-analytics-stats-widget.php:108
+msgid "Days of data to get"
+msgstr "データを取得する日数"
+
+#: ../google-analytics-stats-widget.php:110
+msgid "Page background"
+msgstr "ページの背景"
+
+#: ../google-analytics-stats-widget.php:112
+msgid "Widget background"
+msgstr "ウィジェットの背景"
+
+#: ../google-analytics-stats-widget.php:114
+msgid "Inner background"
+msgstr "内部の背景"
+
+#: ../google-analytics-stats-widget.php:116
+msgid "Font color"
+msgstr "フォントカラー"
+
+#: ../google-analytics-stats-widget.php:118
+msgid "Line 1 text"
+msgstr "一行目のテキスト"
+
+#: ../google-analytics-stats-widget.php:120
+msgid "Line 2 text"
+msgstr "二行目のテキスト"
+
+#: ../google-analytics-summary-widget.php:41
+msgid "Google Analytics Summary"
+msgstr "Google Analyticsのサマリ"
+
+#: ../google-analytics-summary-widget.php:71
+msgid "View Full Stat Report"
+msgstr "統計データのフルレポートを閲覧する"
+
+#: ../google-analytics-summary-widget.php:110
+msgid "Loading"
+msgstr "ロード中"
+
+#: ../google-analytics-summary-widget.php:138
+msgid ""
+"No Analytics account selected. Double check you are authenticated with "
+"Google on Google Analyticator's settings page and make sure an account is "
+"selected."
+msgstr ""
+"Analyticsアカウントが選択されていません。Google Analyticatorの設定ページ上で"
+"Googleとの認証が正しくできているかと、アカウントが選択されているかを再度ご確"
+"認ください。"
+
+#: ../google-analytics-summary-widget.php:145
+msgid "Visits Over the Past 30 Days"
+msgstr "過去30日間の訪問状況"
+
+#: ../google-analytics-summary-widget.php:151
+msgid "Site Usage"
+msgstr "サイトのアクセス状況"
+
+#: ../google-analytics-summary-widget.php:157
+msgid "Top Pages"
+msgstr "人気が高いページ"
+
+#: ../google-analytics-summary-widget.php:166
+msgid "Top Referrers"
+msgstr "よく利用された参照元"
+
+#: ../google-analytics-summary-widget.php:175
+msgid "Top Searches"
+msgstr "よく利用された検索語"
+
+#: ../google-analytics-summary-widget.php:290
+#, php-format
+msgid "The most visits on a single day was %d. Yesterday there were %d visits."
+msgstr "もっとも訪問者が多かった日の訪問数は%dです。昨日の訪問数は%dです。"
+
+#: ../google-analytics-summary-widget.php:310
+#: ../google-analytics-summary-widget.php:442
+#: ../google-analytics-summary-widget.php:469
+msgid "Visits"
+msgstr "訪問"
+
+#: ../google-analytics-summary-widget.php:316
+msgid "Bounce Rate"
+msgstr "直帰率"
+
+#: ../google-analytics-summary-widget.php:320
+msgid "Pageviews"
+msgstr "ページビュー"
+
+#: ../google-analytics-summary-widget.php:326
+msgid "Avg. Time on Site"
+msgstr "平均滞在率"
+
+#: ../google-analytics-summary-widget.php:334
+msgid "Pages/Visit"
+msgstr "一訪問あたりのページ数"
+
+#: ../google-analytics-summary-widget.php:339
+msgid "% New Visits"
+msgstr "新規訪問の割合"
+
+#: ../google-analytics-summary-widget.php:360
+#: ../google-analytics-summary-widget.php:435
+#: ../google-analytics-summary-widget.php:463
+msgid "There is no data for view."
+msgstr "表示できるデータはありませんでした。"
+
+#: ../google-analytics-summary-widget.php:406
+msgid "Views"
+msgstr "ビュー"
