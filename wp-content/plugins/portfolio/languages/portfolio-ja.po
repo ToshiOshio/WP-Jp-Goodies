@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Portfolio 2.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-24 03:55+0900\n"
+"PO-Revision-Date: 2013-02-24 04:50+0900\n"
+"Last-Translator: Toshi Oshio <toshifme@gmail.com>\n"
+"Language-Team: OfficeTO Inc. <support@officeto.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../portfolio.php:105
+#: ../portfolio.php:805
+msgid "The following files \"portfolio.php\" and \"portfolio-post.php\" were not found in the directory of your theme. Please copy them from the directory `/wp-content/plugins/portfolio/template/` to the directory of your theme for the correct work of the Portfolio plugin"
+msgstr "「portfolio.php」と「portfolio-post.php」があなたが利用しているテーマディレクトリの中に見つかりませんでした。「/wp-content/plugins/portfolio/template/」のディレクトリの中にあるこれらのファイルを、ご利用になるテーマのディレクトリにコピーしていただくことで、Portfolioプラグインが正しく動作するようになります。"
+
+#: ../portfolio.php:136
+msgid "Short description"
+msgstr "概要"
+
+#: ../portfolio.php:136
+msgid "A short description which you'd like to be displayed on your portfolio page"
+msgstr "あなたのポートフォリオページ上に表示される簡単な説明文"
+
+#: ../portfolio.php:137
+msgid "Date of completion"
+msgstr "完成日"
+
+#: ../portfolio.php:137
+msgid "The date when the task was completed"
+msgstr "このタスクが完了したときの日付"
+
+#: ../portfolio.php:138
+#: ../portfolio.php:864
+msgid "Link"
+msgstr "リンク"
+
+#: ../portfolio.php:138
+msgid "A link to the site"
+msgstr "ウェブサイトへのリンク"
+
+#: ../portfolio.php:139
+#: ../portfolio.php:867
+msgid "SVN"
+msgstr "SVN"
+
+#: ../portfolio.php:139
+msgid "URL of the SVN"
+msgstr "SVNサイトのURL"
+
+#: ../portfolio.php:154
+#: ../portfolio.php:155
+#: ../portfolio.php:690
+msgid "Portfolio"
+msgstr "ポートフォリオ"
+
+#: ../portfolio.php:156
+msgid "Add New"
+msgstr "新規追加"
+
+#: ../portfolio.php:157
+msgid "Add New Portfolio"
+msgstr "新しいポートフォリオを追加"
+
+#: ../portfolio.php:158
+msgid "Edit"
+msgstr "編集"
+
+#: ../portfolio.php:159
+msgid "Edit Portfolio"
+msgstr "ポートフォリオの編集"
+
+#: ../portfolio.php:160
+msgid "New Portfolio"
+msgstr "新しいポートフォリオ"
+
+#: ../portfolio.php:161
+#: ../portfolio.php:162
+msgid "View Portfolio"
+msgstr "ポートフォリオを表示"
+
+#: ../portfolio.php:163
+msgid "Search Portfolio"
+msgstr "ポートフォリオの検索"
+
+#: ../portfolio.php:164
+msgid "No portfolio found"
+msgstr "ポートフォリオは見つかりませんでした"
+
+#: ../portfolio.php:165
+msgid "No portfolio found in Trash"
+msgstr "ポートフォリオはゴミ箱の中には見つかりませんでした"
+
+#: ../portfolio.php:166
+msgid "Parent Portfolio"
+msgstr "親ポートフォリオ"
+
+#: ../portfolio.php:168
+msgid "Create a Portfolio."
+msgstr "ポートフォリオを作成します"
+
+#: ../portfolio.php:200
+msgid "Executor Profiles"
+msgstr "担当者プロフィール"
+
+#: ../portfolio.php:201
+msgid "Executor Profile"
+msgstr "担当者プロフィール"
+
+#: ../portfolio.php:202
+msgid "Search Executor Profiles"
+msgstr "担当者プロフィールを検索"
+
+#: ../portfolio.php:203
+msgid "Popular Executor Profiles"
+msgstr "人気担当者のプロフィール"
+
+#: ../portfolio.php:204
+msgid "All Executor Profiles"
+msgstr "全担当者のプロフィール"
+
+#: ../portfolio.php:205
+msgid "Parent Executor Profile"
+msgstr "親担当者のプロフィール"
+
+#: ../portfolio.php:206
+msgid "Parent Executor Profile:"
+msgstr "親担当者のプロフィール："
+
+#: ../portfolio.php:207
+msgid "Edit Executor Profile"
+msgstr "担当者プロフィールの編集"
+
+#: ../portfolio.php:208
+msgid "Update Executor Profile"
+msgstr "担当者プロフィールの更新"
+
+#: ../portfolio.php:209
+msgid "Add New Executor Profile"
+msgstr "新しい担当者プロフィールの追加"
+
+#: ../portfolio.php:210
+msgid "New Executor Profile Name"
+msgstr "新しい担当者プロフィール"
+
+#: ../portfolio.php:211
+msgid "Separate Executor Profiles with commas"
+msgstr "コンマで担当者プロフィールを区切る"
+
+#: ../portfolio.php:212
+msgid "Add or remove Executor Profile"
+msgstr "担当者プロフィールの追加または削除"
+
+#: ../portfolio.php:213
+msgid "Choose from the most used Executor Profile"
+msgstr "もっともよく利用されている担当者プロフィールから選択"
+
+#: ../portfolio.php:214
+msgid "Executor Profiles "
+msgstr "担当者プロフィール"
+
+#: ../portfolio.php:230
+#: ../portfolio.php:244
+#: ../portfolio.php:271
+#: ../portfolio.php:279
+#: ../portfolio.php:869
+#: ../portfolio.php:1066
+#: ../template/portfolio.php:13
+msgid "Technologies"
+msgstr "テクノロジー"
+
+#: ../portfolio.php:231
+msgid "Technology"
+msgstr "テクノロジー"
+
+#: ../portfolio.php:232
+msgid "Search Technologies"
+msgstr "テクノロジーを検索"
+
+#: ../portfolio.php:233
+msgid "Popular Technologies"
+msgstr "人気のテクノロジー"
+
+#: ../portfolio.php:234
+msgid "All Technologies"
+msgstr "全テクノロジー"
+
+#: ../portfolio.php:235
+msgid "Parent Technology"
+msgstr "親テクノロジー"
+
+#: ../portfolio.php:236
+msgid "Parent Technology:"
+msgstr "親テクノロジー："
+
+#: ../portfolio.php:237
+msgid "Edit Technology"
+msgstr "テクノロジーの編集"
+
+#: ../portfolio.php:238
+msgid "Update Technology"
+msgstr "テクノロジーの更新"
+
+#: ../portfolio.php:239
+msgid "Add New Technology"
+msgstr "新しいテクノロジーを追加"
+
+#: ../portfolio.php:240
+msgid "New Technology Name"
+msgstr "新テクノロジー名"
+
+#: ../portfolio.php:241
+msgid "Separate Technologies with commas"
+msgstr "コンマでテクノロジーを区切る"
+
+#: ../portfolio.php:242
+msgid "Add or remove Technology"
+msgstr "テクノロジーの追加または削除"
+
+#: ../portfolio.php:243
+msgid "Choose from the most used Technology"
+msgstr "もっともよく利用されているテクノロジーから選択"
+
+#: ../portfolio.php:274
+msgid "Your most used portfolio technologies in cloud format"
+msgstr "ポートフォリオテクノロジーはぜひクラウドフォーマットでご利用ください。"
+
+#: ../portfolio.php:342
+msgid "Title"
+msgstr "タイトル"
+
+#: ../portfolio.php:409
+msgid "Portfolio Info"
+msgstr "ポートフォリオ情報"
+
+#: ../portfolio.php:565
+#: ../portfolio.php:972
+msgid "FAQ"
+msgstr "FAQ"
+
+#: ../portfolio.php:566
+#: ../portfolio.php:973
+msgid "Support"
+msgstr "サポート"
+
+#: ../portfolio.php:659
+msgid "Activated plugins"
+msgstr "プラグインを有効化"
+
+#: ../portfolio.php:661
+#: ../portfolio.php:669
+#: ../portfolio.php:677
+#: ../portfolio.php:1061
+#: ../template/portfolio.php:129
+msgid "Read more"
+msgstr "続きを読む"
+
+#: ../portfolio.php:661
+#: ../portfolio.php:960
+#: ../portfolio.php:971
+msgid "Settings"
+msgstr "設定"
+
+#: ../portfolio.php:667
+msgid "Installed plugins"
+msgstr "インストール済みプラグイン"
+
+#: ../portfolio.php:675
+msgid "Recommended plugins"
+msgstr "おすすめプラグイン"
+
+#: ../portfolio.php:677
+msgid "Download"
+msgstr "ダウンロード"
+
+#: ../portfolio.php:677
+#, php-format
+msgid "Install %s"
+msgstr " %sのインストール"
+
+#: ../portfolio.php:677
+msgid "Install now from wordpress.org"
+msgstr "wordpress.orgからすぐにインストール"
+
+#: ../portfolio.php:679
+msgid "If you have any questions, please contact us via plugin@bestwebsoft.com or fill in our contact form on our site"
+msgstr "ご質問があるときは、plugin@bestwebsoft.com宛にメールをお送りいただくか、我々のサイトにあるコンタクトフォームに記入、送信してください。"
+
+#: ../portfolio.php:716
+#: ../portfolio.php:875
+msgid "Date of completion:"
+msgstr "完成日："
+
+#: ../portfolio.php:717
+#: ../portfolio.php:876
+msgid "Link:"
+msgstr "リンク："
+
+#: ../portfolio.php:718
+#: ../portfolio.php:877
+msgid "Short description:"
+msgstr "概要："
+
+#: ../portfolio.php:719
+#: ../portfolio.php:878
+msgid "Description:"
+msgstr "説明："
+
+#: ../portfolio.php:720
+#: ../portfolio.php:879
+msgid "SVN:"
+msgstr "SVN："
+
+#: ../portfolio.php:721
+#: ../portfolio.php:880
+msgid "Executors Profile:"
+msgstr "担当者プロフィール："
+
+#: ../portfolio.php:722
+#: ../portfolio.php:881
+msgid "More screenshots:"
+msgstr "追加のスクリーンショット："
+
+#: ../portfolio.php:723
+#: ../portfolio.php:882
+msgid "Technologies:"
+msgstr "テクノロジー："
+
+#: ../portfolio.php:801
+msgid "Options saved."
+msgstr "オプションを保存しました。"
+
+#: ../portfolio.php:812
+msgid "Portfolio Options"
+msgstr "ポートフォリオプラグインのオプション"
+
+#: ../portfolio.php:815
+msgid "If you would like to add a Latest Portfolio Items to your page or post, just copy and put this shortcode onto your post or page content:"
+msgstr "最新のポートフォリオコンテンツをページや投稿に掲載したいときは、このショートコードをコピーし、ページや投稿の本文中に追加します。"
+
+#: ../portfolio.php:815
+msgid "where count=3 - the number of posts in the portfolio that are displayed."
+msgstr "where count=3 - 表示されるポートフォリオの件数"
+
+#: ../portfolio.php:819
+msgid "The size of the cover album for portfolio"
+msgstr "ポートフォリオ用のカバー画像のサイズ"
+
+#: ../portfolio.php:821
+#: ../portfolio.php:829
+msgid "Image size name"
+msgstr "イメージサイズ名"
+
+#: ../portfolio.php:822
+#: ../portfolio.php:830
+msgid "Width (in px)"
+msgstr "幅（ピクセル単位）"
+
+#: ../portfolio.php:823
+#: ../portfolio.php:831
+msgid "Height (in px)"
+msgstr "高さ（ピクセル単位）"
+
+#: ../portfolio.php:827
+msgid "Size for portfolio image"
+msgstr "ポートフォリオ画像サイズ"
+
+#: ../portfolio.php:835
+msgid "WordPress will create a copy of the post thumbnail with the specified dimensions when you upload a new photo. It is necessary to click on the button Update images at the bottom of this page in order to generate new images according to new dimensions "
+msgstr "あなたが新しい画像ファイルをアップロードすると、WordPressが決められた縦横サイズで投稿サムネイル画像を作成します。途中で画像サイズを変更した場合は、新しいサイズに合わせた画像を再度作成するための「画像のアップデート」ボタンをクリックする必要があります。"
+
+#: ../portfolio.php:838
+msgid "Portfolio order by"
+msgstr "ポートフォリオの並び順"
+
+#: ../portfolio.php:840
+msgid "portfolio id"
+msgstr "ポートフォリオID"
+
+#: ../portfolio.php:841
+msgid "portfolio title"
+msgstr "ポートフォリオのタイトル"
+
+#: ../portfolio.php:842
+msgid "date"
+msgstr "日付"
+
+#: ../portfolio.php:843
+msgid "menu order"
+msgstr "メニュー表示順"
+
+#: ../portfolio.php:844
+msgid "random"
+msgstr "ランダム"
+
+#: ../portfolio.php:848
+msgid "Portfolio order"
+msgstr "ポートフォリオの表示順"
+
+#: ../portfolio.php:850
+msgid "ASC (ascending order from lowest to highest values - 1, 2, 3; a, b, c)"
+msgstr "昇順（値が一番小さいものから大きいものへと並べる - 1,2,3; a, b, c）"
+
+#: ../portfolio.php:851
+msgid "DESC (descending order from highest to lowest values - 3, 2, 1; c, b, a)"
+msgstr "降順（値が一番大きいものから小さいものへと並べる - 3 ,2, 1; c, b, a）"
+
+#: ../portfolio.php:855
+msgid "Count images in row"
+msgstr "１行に表示する画像の数"
+
+#: ../portfolio.php:861
+msgid "Display additional fields"
+msgstr "追加情報として表示したい項目"
+
+#: ../portfolio.php:863
+msgid "Date"
+msgstr "日付"
+
+#: ../portfolio.php:865
+msgid "Short Description"
+msgstr "概要"
+
+#: ../portfolio.php:866
+msgid "Description"
+msgstr "説明文"
+
+#: ../portfolio.php:868
+msgid "Executor"
+msgstr "担当者"
+
+#: ../portfolio.php:873
+msgid "Text for additional fields"
+msgstr "追加情報の表示名"
+
+#: ../portfolio.php:888
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: ../portfolio.php:900
+msgid "Update the way storage your post_meta information for portfolio"
+msgstr "ポートフォリオ用のメタ情報の登録方法をアップデート"
+
+#: ../portfolio.php:902
+msgid "Update All Info"
+msgstr "すべての情報をアップデート"
+
+#: ../portfolio.php:907
+msgid "Update post_meta information..."
+msgstr "投稿メタ情報をアップデート…"
+
+#: ../portfolio.php:908
+msgid "No informations found."
+msgstr "更新する情報は見つかりませんでした。"
+
+#: ../portfolio.php:909
+msgid "All information was updated."
+msgstr "全ての情報がアップデートされました。"
+
+#: ../portfolio.php:910
+#: ../portfolio.php:925
+msgid "Error."
+msgstr "エラー"
+
+#: ../portfolio.php:915
+msgid "Update images for portfolio"
+msgstr "ポートフォリオ向け画像の更新"
+
+#: ../portfolio.php:917
+msgid "Update images"
+msgstr "画像をアップデート"
+
+#: ../portfolio.php:922
+msgid "Update images..."
+msgstr "画像をアップデート…"
+
+#: ../portfolio.php:923
+msgid "No images found."
+msgstr "見つかりませんでした。"
+
+#: ../portfolio.php:924
+msgid "All images was updated."
+msgstr "全ての画像がアップデートされました。"
+
+#: ../portfolio.php:1071
+#: ../template/portfolio-post.php:155
+#: ../template/portfolio.php:138
+#, php-format
+msgid "View all posts in %s"
+msgstr "%sの全ての投稿を表示"
+
+#: ../portfolio.php:1257
+msgid "Could not read image size"
+msgstr "画像のサイズが読み込めませんでした"
+
+#: ../portfolio.php:1263
+msgid "Could not calculate resized image dimensions"
+msgstr "リサイズした画像の縦横サイズが算出できませんでした"
+
+#: ../portfolio.php:1292
+#: ../portfolio.php:1295
+#: ../portfolio.php:1300
+msgid "Resize path invalid"
+msgstr "リサイズ画像パスが無効です"
+
