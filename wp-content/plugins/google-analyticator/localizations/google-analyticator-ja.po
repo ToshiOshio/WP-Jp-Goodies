@@ -1,42 +1,42 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Google Analyticator 6.4.1\n"
-"POT-Creation-Date: 2013-01-27 18:33+0900\n"
-"PO-Revision-Date: 2013-01-27 18:33+0900\n"
+"POT-Creation-Date: 2013-10-29 07:44+0900\n"
+"PO-Revision-Date: 2013-10-29 07:59+0900\n"
 "Last-Translator: Toshi Oshio <oshio@officeto.net>\n"
 "Language-Team: Toshi Oshio <toshifme@gmail.com>\n"
 "Language: Japanese\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 1.5.7\n"
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: ..\n"
 
-#: ../google-analyticator.php:118 ../google-analyticator.php:389
+#: ../google-analyticator.php:125 ../google-analyticator.php:405
 msgid "Google Analyticator Settings"
 msgstr "Google Analyticator 設定"
 
-#: ../google-analyticator.php:232
+#: ../google-analyticator.php:239
 msgid "Settings"
 msgstr "設定"
 
-#: ../google-analyticator.php:233
+#: ../google-analyticator.php:240
 msgid "Reset"
 msgstr "リセット"
 
-#: ../google-analyticator.php:376
+#: ../google-analyticator.php:392
 msgid "Google Analyticator settings saved."
 msgstr "Google Analyticator設定を保存しました、"
 
-#: ../google-analyticator.php:399
+#: ../google-analyticator.php:414
 msgid "Google Analytics integration is currently <strong>DISABLED</strong>."
 msgstr "Google Analyticsとの統合は現在<strong>無効</strong>です。"
 
-#: ../google-analyticator.php:404
+#: ../google-analyticator.php:419
 msgid ""
 "Google Analytics integration is currently enabled, but you did not enter a "
 "UID. Tracking will not occur."
@@ -44,45 +44,49 @@ msgstr ""
 "Google Analyticsとの統合は現在有効ですが、UIDが入力されていません。アクセスロ"
 "グ取得は行なわれません。"
 
-#: ../google-analyticator.php:411
+#: ../google-analyticator.php:433
 msgid "Basic Settings"
 msgstr "基本設定"
 
-#: ../google-analyticator.php:417
+#: ../google-analyticator.php:439
 msgid "Google Analytics logging is"
 msgstr "Google Analytics ログ解析"
 
-#: ../google-analyticator.php:426 ../google-analyticator.php:589
-#: ../google-analyticator.php:612 ../google-analyticator.php:734
+#: ../google-analyticator.php:448 ../google-analyticator.php:661
+#: ../google-analyticator.php:684 ../google-analyticator.php:806
 msgid "Enabled"
 msgstr "有効"
 
-#: ../google-analyticator.php:431 ../google-analyticator.php:594
-#: ../google-analyticator.php:617 ../google-analyticator.php:739
+#: ../google-analyticator.php:453 ../google-analyticator.php:666
+#: ../google-analyticator.php:689 ../google-analyticator.php:811
 msgid "Disabled"
 msgstr "無効"
 
-#: ../google-analyticator.php:439
+#: ../google-analyticator.php:461
 msgid "Google Analytics UID"
 msgstr "Google Analytics UID"
 
-#: ../google-analyticator.php:475
+#: ../google-analyticator.php:497
 msgid "Tracking Settings"
 msgstr "トラッキング設定"
 
-#: ../google-analyticator.php:480
+#: ../google-analyticator.php:502
 msgid "Track all logged in WordPress users"
 msgstr "すべてのWordPressユーザをトラッキング"
 
-#: ../google-analyticator.php:489 ../google-analyticator.php:518
+#: ../google-analyticator.php:511 ../google-analyticator.php:540
+#: ../google-analyticator.php:612 ../google-analyticator.php:632
+#: ../google-analyticator.php:830
 msgid "Yes"
 msgstr "する"
 
-#: ../google-analyticator.php:494 ../google-analyticator.php:513
+#: ../google-analyticator.php:516 ../google-analyticator.php:535
+#: ../google-analyticator.php:606 ../google-analyticator.php:637
+#: ../google-analyticator.php:835
 msgid "No"
 msgstr "しない"
 
-#: ../google-analyticator.php:499
+#: ../google-analyticator.php:521
 msgid ""
 "Selecting \"no\" to this option will prevent logged in WordPress users from "
 "showing up on your Google Analytics reports. This setting will prevent "
@@ -94,11 +98,11 @@ msgstr ""
 "利用することで、あなた自身もしくは他のユーザのログをAnalyticsのレポートから除"
 "外できます。除外するユーザグループを以下で設定してください。"
 
-#: ../google-analyticator.php:504
+#: ../google-analyticator.php:526
 msgid "Anonymize IP Addresses"
 msgstr "IPアドレスを秘匿化"
 
-#: ../google-analyticator.php:523
+#: ../google-analyticator.php:545
 msgid ""
 "By selecting \"Yes\", This tells Google Analytics to anonymize the "
 "information sent by the tracker objects by removing the last octet of the IP "
@@ -109,11 +113,11 @@ msgstr ""
 "キング情報をGoogle Analyticsに送信し、取得情報を一部秘匿にします。この場合、"
 "ロケーション情報のデータの精度が若干下がることにご留意ください。"
 
-#: ../google-analyticator.php:528
+#: ../google-analyticator.php:550
 msgid "User roles to not track"
 msgstr "トラッキングをしない権限グループ"
 
-#: ../google-analyticator.php:547
+#: ../google-analyticator.php:569
 msgid ""
 "Specifies the user roles to not include in your WordPress Analytics report. "
 "If a user is logged into WordPress with one of these roles, they will not "
@@ -123,19 +127,19 @@ msgstr ""
 "限グループでWordPressにログインしている場合、そのアクセスはAnalyticsのレポー"
 "トには現れません。"
 
-#: ../google-analyticator.php:552
+#: ../google-analyticator.php:574
 msgid "Method to prevent tracking"
 msgstr "トラッキングからの除外方法"
 
-#: ../google-analyticator.php:561
+#: ../google-analyticator.php:583
 msgid "Remove"
 msgstr "削除"
 
-#: ../google-analyticator.php:566
+#: ../google-analyticator.php:588
 msgid "Use 'admin' variable"
 msgstr "'admin'変数を利用"
 
-#: ../google-analyticator.php:570
+#: ../google-analyticator.php:592
 msgid ""
 "Selecting the \"Remove\" option will physically remove the tracking code "
 "from logged in users. Selecting the \"Use 'admin' variable\" option will "
@@ -151,11 +155,33 @@ msgstr ""
 "ビューをトラッキングから除外するには、手動でGoogle Analyticsを設定する必要が"
 "あります。"
 
-#: ../google-analyticator.php:580
+#: ../google-analyticator.php:597
+msgid "Enable remarketing"
+msgstr "リマーケティングを有効化"
+
+#: ../google-analyticator.php:618
+msgid ""
+"In order to use remarketing, <a href=\"https://support.google.com/analytics/"
+"answer/2611270\" target=\"_blank\">please make sure you complete this "
+"checklist from Google</a>"
+msgstr ""
+"リマーケティングをご利用になるには、<a href=\"https://support.google.com/"
+"analytics/answer/2611270\" target=\"_blank\">Google提供のこのチェックリストを"
+"網羅していることをご確認ください。</a>"
+
+#: ../google-analyticator.php:623
+msgid "Track WordPress Login Page"
+msgstr "WordPressログインページをトラッキング"
+
+#: ../google-analyticator.php:642
+msgid "This will track all access to wp-login.php"
+msgstr "この設定はwp-login.phpページへのすべてのアクセスを計測します"
+
+#: ../google-analyticator.php:652
 msgid "Outbound link tracking"
 msgstr "アウトバウンドリンクのトラッキング"
 
-#: ../google-analyticator.php:598
+#: ../google-analyticator.php:670
 msgid ""
 "Disabling this option will turn off the tracking of outbound links. It's "
 "recommended not to disable this option unless you're a privacy advocate (now "
@@ -168,11 +194,11 @@ msgstr ""
 "問題を引き起こしている場合を除き、このオプションを無効にしないことを推奨しま"
 "す。"
 
-#: ../google-analyticator.php:603
+#: ../google-analyticator.php:675
 msgid "Event tracking"
 msgstr "イベントトラッキング"
 
-#: ../google-analyticator.php:621
+#: ../google-analyticator.php:693
 msgid ""
 "Enabling this option will treat outbound links and downloads as events "
 "instead of pageviews. Since the introduction of <a href=\"https://developers."
@@ -189,11 +215,11 @@ msgstr ""
 "によるトラッキング手法を使わざるを得ないときのみ、この設定を無効にしてくださ"
 "い。"
 
-#: ../google-analyticator.php:626
+#: ../google-analyticator.php:698
 msgid "Download extensions to track"
 msgstr "ダウンロードとしてトラッキングする拡張子"
 
-#: ../google-analyticator.php:635
+#: ../google-analyticator.php:707
 msgid ""
 "Enter any extensions of files you would like to be tracked as a download. "
 "For example to track all MP3s and PDFs enter <strong>mp3,pdf</strong>. "
@@ -204,11 +230,11 @@ msgstr ""
 "<em>ダウンロードをトラッキングする場合は、アウトバウンドリンクのトラッキング"
 "を必ず有効にしてください。</em>"
 
-#: ../google-analyticator.php:640
+#: ../google-analyticator.php:712
 msgid "Prefix external links with"
 msgstr "外部リンクのプレフィックス"
 
-#: ../google-analyticator.php:649
+#: ../google-analyticator.php:721
 msgid ""
 "Enter a name for the section tracked external links will appear under. This "
 "option has no effect if event tracking is enabled."
@@ -216,11 +242,11 @@ msgstr ""
 "トラッキングされた外部リンクが表示されるセクションの名前を入力してください。"
 "このオプションはイベントトラッキングが有効の場合、意味を持ちません。"
 
-#: ../google-analyticator.php:654
+#: ../google-analyticator.php:726
 msgid "Prefix download links with"
 msgstr "ダウンロードリンクのプレフィックス"
 
-#: ../google-analyticator.php:663
+#: ../google-analyticator.php:735
 msgid ""
 "Enter a name for the section tracked download links will appear under. This "
 "option has no effect if event tracking is enabled."
@@ -228,11 +254,11 @@ msgstr ""
 "トラッキングされたダウンロードが表示されるセクションの名前を入力してくださ"
 "い。このオプションはイベントトラッキングが有効の場合、意味を持ちません。"
 
-#: ../google-analyticator.php:668
+#: ../google-analyticator.php:740
 msgid "Google Adsense ID"
 msgstr "Google Adsense ID"
 
-#: ../google-analyticator.php:677
+#: ../google-analyticator.php:749
 msgid ""
 "Enter your Google Adsense ID assigned by Google Analytics in this box. This "
 "enables Analytics tracking of Adsense information if your Adsense and "
@@ -242,15 +268,15 @@ msgstr ""
 "ださい。これにより、AdsenseとAnalyticsのアカウントがリンクされている場合、"
 "Adsense情報をAnalyticsがトラッキングできるようになります。"
 
-#: ../google-analyticator.php:687 ../google-analyticator.php:701
+#: ../google-analyticator.php:759 ../google-analyticator.php:773
 msgid "Additional tracking code"
 msgstr "追加トラッキングコード"
 
-#: ../google-analyticator.php:687
+#: ../google-analyticator.php:759
 msgid "before tracker initialization"
 msgstr "トラッカーの初期化前"
 
-#: ../google-analyticator.php:696
+#: ../google-analyticator.php:768
 msgid ""
 "Enter any additional lines of tracking code that you would like to include "
 "in the Google Analytics tracking script. The code in this section will be "
@@ -261,11 +287,11 @@ msgstr ""
 "ここに設定されたコードはGoogle Analyticsとラッカーが<strong>初期化される前</"
 "strong>に表示されるようになります。"
 
-#: ../google-analyticator.php:701
+#: ../google-analyticator.php:773
 msgid "after tracker initialization"
 msgstr "トラッカーの初期化後"
 
-#: ../google-analyticator.php:710
+#: ../google-analyticator.php:782
 msgid ""
 "Enter any additional lines of tracking code that you would like to include "
 "in the Google Analytics tracking script. The code in this section will be "
@@ -275,7 +301,7 @@ msgstr ""
 "ここに設定されたコードはGoogle Analyticsとラッカーが<strong>初期化された後</"
 "strong>に表示されるようになります。"
 
-#: ../google-analyticator.php:718
+#: ../google-analyticator.php:790
 msgid ""
 "You have not authenticated with Google - you cannot use dashboard widgets! "
 "Reset the plugin to authenticate.."
@@ -283,11 +309,11 @@ msgstr ""
 "Googleの認証が完了していませんので、ダッシュボードウィジェットがご利用になれ"
 "ません。プラグインをリセットして、認証を行なってください。"
 
-#: ../google-analyticator.php:725
+#: ../google-analyticator.php:797
 msgid "Include widgets"
 msgstr "ウィジェットの追加"
 
-#: ../google-analyticator.php:743
+#: ../google-analyticator.php:815
 msgid ""
 "Disabling this option will completely remove the Dashboard Summary widget "
 "and the theme Stats widget. Use this option if you would prefer to not see "
@@ -297,11 +323,19 @@ msgstr ""
 "計ウィジェットが完全に削除されます。これらのウィジェットを目にしたくない場合"
 "は、このオプションを利用してください。"
 
-#: ../google-analyticator.php:748
+#: ../google-analyticator.php:821
+msgid "Display Ad"
+msgstr "広告の表示"
+
+#: ../google-analyticator.php:839
+msgid "You can disbale the ad on the admin dashboard."
+msgstr "管理者ダッシュボードに表示される広告を非表示にできます。"
+
+#: ../google-analyticator.php:846
 msgid "User roles that can see the dashboard widget"
 msgstr "ダッシュボードウィジェットを閲覧できる権限グループ"
 
-#: ../google-analyticator.php:767
+#: ../google-analyticator.php:865
 msgid ""
 "Specifies the user roles that can see the dashboard widget. If a user is not "
 "in one of these role groups, they will not see the dashboard widget."
@@ -310,15 +344,15 @@ msgstr ""
 "ユーザがここで設定された権限グループのいずれにも属していない場合、ダッシュ"
 "ボードウィジェットを閲覧できません。"
 
-#: ../google-analyticator.php:773
+#: ../google-analyticator.php:871
 msgid "Save Changes"
 msgstr "変更を保存する"
 
-#: ../google-analyticator.php:776
+#: ../google-analyticator.php:874
 msgid "Deauthorize &amp; Reset Google Analyticator."
 msgstr "認証を解除しGoogle Analyticatorをリセット"
 
-#: ../google-analyticator.php:993
+#: ../google-analyticator.php:1048
 msgid ""
 "Tracking code is hidden, since the settings specify not to track admins. "
 "Tracking is occurring for non-admins."
@@ -366,19 +400,15 @@ msgstr "一行目のテキスト"
 msgid "Line 2 text"
 msgstr "二行目のテキスト"
 
-#: ../google-analytics-summary-widget.php:41
+#: ../google-analytics-summary-widget.php:45
 msgid "Google Analytics Summary"
 msgstr "Google Analyticsのサマリ"
 
-#: ../google-analytics-summary-widget.php:71
+#: ../google-analytics-summary-widget.php:110
 msgid "View Full Stat Report"
 msgstr "統計データのフルレポートを閲覧する"
 
-#: ../google-analytics-summary-widget.php:110
-msgid "Loading"
-msgstr "ロード中"
-
-#: ../google-analytics-summary-widget.php:138
+#: ../google-analytics-summary-widget.php:256
 msgid ""
 "No Analytics account selected. Double check you are authenticated with "
 "Google on Google Analyticator's settings page and make sure an account is "
@@ -388,63 +418,65 @@ msgstr ""
 "Googleとの認証が正しくできているかと、アカウントが選択されているかを再度ご確"
 "認ください。"
 
-#: ../google-analytics-summary-widget.php:145
-msgid "Visits Over the Past 30 Days"
-msgstr "過去30日間の訪問状況"
-
-#: ../google-analytics-summary-widget.php:151
+#: ../google-analytics-summary-widget.php:269
 msgid "Site Usage"
 msgstr "サイトのアクセス状況"
 
-#: ../google-analytics-summary-widget.php:157
+#: ../google-analytics-summary-widget.php:275
 msgid "Top Pages"
 msgstr "人気が高いページ"
 
-#: ../google-analytics-summary-widget.php:166
+#: ../google-analytics-summary-widget.php:284
 msgid "Top Referrers"
 msgstr "よく利用された参照元"
 
-#: ../google-analytics-summary-widget.php:175
+#: ../google-analytics-summary-widget.php:293
 msgid "Top Searches"
 msgstr "よく利用された検索語"
 
-#: ../google-analytics-summary-widget.php:290
+#: ../google-analytics-summary-widget.php:429
 #, php-format
 msgid "The most visits on a single day was %d. Yesterday there were %d visits."
 msgstr "もっとも訪問者が多かった日の訪問数は%dです。昨日の訪問数は%dです。"
 
-#: ../google-analytics-summary-widget.php:310
-#: ../google-analytics-summary-widget.php:442
-#: ../google-analytics-summary-widget.php:469
+#: ../google-analytics-summary-widget.php:447
+#: ../google-analytics-summary-widget.php:575
+#: ../google-analytics-summary-widget.php:600
 msgid "Visits"
 msgstr "訪問"
 
-#: ../google-analytics-summary-widget.php:316
+#: ../google-analytics-summary-widget.php:453
 msgid "Bounce Rate"
 msgstr "直帰率"
 
-#: ../google-analytics-summary-widget.php:320
+#: ../google-analytics-summary-widget.php:457
 msgid "Pageviews"
 msgstr "ページビュー"
 
-#: ../google-analytics-summary-widget.php:326
+#: ../google-analytics-summary-widget.php:463
 msgid "Avg. Time on Site"
 msgstr "平均滞在率"
 
-#: ../google-analytics-summary-widget.php:334
+#: ../google-analytics-summary-widget.php:471
 msgid "Pages/Visit"
 msgstr "一訪問あたりのページ数"
 
-#: ../google-analytics-summary-widget.php:339
+#: ../google-analytics-summary-widget.php:476
 msgid "% New Visits"
 msgstr "新規訪問の割合"
 
-#: ../google-analytics-summary-widget.php:360
-#: ../google-analytics-summary-widget.php:435
-#: ../google-analytics-summary-widget.php:463
+#: ../google-analytics-summary-widget.php:495
+#: ../google-analytics-summary-widget.php:568
+#: ../google-analytics-summary-widget.php:594
 msgid "There is no data for view."
 msgstr "表示できるデータはありませんでした。"
 
-#: ../google-analytics-summary-widget.php:406
+#: ../google-analytics-summary-widget.php:541
 msgid "Views"
 msgstr "ビュー"
+
+#~ msgid "Loading"
+#~ msgstr "ロード中"
+
+#~ msgid "Visits Over the Past 30 Days"
+#~ msgstr "過去30日間の訪問状況"
