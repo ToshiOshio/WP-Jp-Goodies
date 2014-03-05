@@ -1,0 +1,821 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpthemes.co.nz - framework\n"
+"POT-Creation-Date: 2014-03-05 09:48+0900\n"
+"PO-Revision-Date: 2014-03-05 09:48+0900\n"
+"Last-Translator: Toshi Oshio <oshio@officeto.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:9
+msgid "Error 404 - Page Not Found"
+msgstr ""
+
+#: ../404.php:13
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching, or one of the links below, can help."
+msgstr ""
+
+#: ../404.php:19 ../search.php:46
+msgid "Most Used Categories"
+msgstr ""
+
+#: ../404.php:27 ../search.php:54
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../alt-homepage.php:85
+msgid "Images added to this page will appear here"
+msgstr ""
+
+#: ../archive.php:13
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:15
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:17
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:19 ../functions.php:103 ../sidebar-home.php:40
+#: ../sidebar-menu-item.php:39 ../sidebar.php:39
+msgid "Archives"
+msgstr ""
+
+#: ../archive.php:48 ../author.php:55 ../category.php:44 ../index.php:32
+#: ../menu-sample.php:100 ../search.php:34 ../tag.php:47
+msgid "Nothing Found"
+msgstr ""
+
+#: ../archive.php:52 ../author.php:59 ../category.php:48 ../index.php:36
+#: ../menu-items-template-full.php:106 ../menu-items-template.php:104
+#: ../menu-sample.php:104 ../tag.php:51
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../author.php:20
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../category.php:11
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: ../comments.php:8
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:39
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:40
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:41
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:51
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-aside.php:13 ../content-gallery.php:39 ../content-image.php:20
+#: ../content.php:25 ../menu-items-template-full.php:39
+#: ../menu-items-template.php:39 ../menu-sample.php:47
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content-aside.php:14 ../content-gallery.php:53 ../content-image.php:21
+#: ../content-menu.php:16 ../content-page.php:11 ../content-single.php:22
+#: ../content.php:26 ../image.php:78
+msgid "Pages:"
+msgstr ""
+
+#: ../content-aside.php:22 ../content-image.php:28
+msgid "Leave a comment"
+msgstr ""
+
+#: ../content-aside.php:22 ../content-image.php:28
+msgid "1 Comment"
+msgstr ""
+
+#: ../content-aside.php:22 ../content-image.php:28
+msgid "% Comments"
+msgstr ""
+
+#: ../content-aside.php:24 ../content-gallery.php:84 ../content-image.php:30
+#: ../content-page.php:13 ../content-single.php:60 ../content.php:57
+#: ../image.php:26 ../image.php:92
+msgid "Edit"
+msgstr ""
+
+#: ../content-gallery.php:7 ../content-image.php:8 ../content-single.php:7
+#: ../content.php:9
+msgid "Comments:"
+msgstr ""
+
+#: ../content-gallery.php:7 ../content-image.php:8 ../content-single.php:7
+#: ../content.php:9
+msgid "Leave <span class=\"txtreg\">a comment</span>"
+msgstr ""
+
+#: ../content-gallery.php:7 ../content-image.php:8 ../content-single.php:7
+#: ../content.php:9
+msgid "1 <span class=\"txtreg\">Comment</span>"
+msgstr ""
+
+#: ../content-gallery.php:7 ../content-image.php:8 ../content-single.php:7
+#: ../content.php:9
+msgid "% <span class=\"txtreg\">Comments</span>"
+msgstr ""
+
+#: ../content-gallery.php:61 ../content-gallery.php:72
+#: ../content-single.php:28 ../content.php:34 ../content.php:45
+msgid ", "
+msgstr ""
+
+#: ../content-gallery.php:65 ../content.php:38
+#, php-format
+msgid "<span class=\"meta-cat\"></span>Filed Under %1$s"
+msgstr ""
+
+#: ../content-gallery.php:76 ../content.php:49
+#, php-format
+msgid "<span class=\"meta-tag\"></span>Tagged %1$s"
+msgstr ""
+
+#: ../content-menu.php:7
+msgid "No Featured Image"
+msgstr ""
+
+#: ../content-menu.php:33
+#, php-format
+msgid "<span class=\"meta-eat\">In</span> <strong>%s</strong>"
+msgstr ""
+
+#: ../content-single.php:36
+#, php-format
+msgid ""
+"<span class=\"meta-tag\"></span>Tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../content-single.php:38
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: ../content-single.php:44
+#, php-format
+msgid ""
+"<span class=\"meta-cat\"></span>Filed Under %1$s | <span class=\"meta-tag"
+"\"></span>Tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to "
+"%4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../content-single.php:46
+#, php-format
+msgid ""
+"<span class=\"meta-cat\"></span>Filed Under %1$s. Bookmark the <a href=\"%3$s"
+"\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../footer.php:5
+msgid "&copy; "
+msgstr ""
+
+#: ../footer.php:7
+msgid "- Powered by "
+msgstr ""
+
+#: ../footer.php:7
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../footer.php:7
+msgid "WordPress"
+msgstr ""
+
+#: ../footer.php:8
+msgid " and "
+msgstr ""
+
+#: ../footer.php:8
+msgid "http://wprestaurateur.com/"
+msgstr ""
+
+#: ../footer.php:8
+msgid "WP Restaurateur"
+msgstr ""
+
+#: ../functions.php:33
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:100
+msgid "Category"
+msgstr ""
+
+#: ../functions.php:101
+msgid "Tag"
+msgstr ""
+
+#: ../functions.php:102
+msgid "Author"
+msgstr ""
+
+#: ../functions.php:108 ../functions.php:112
+msgid "Page "
+msgstr ""
+
+#: ../functions.php:138
+msgid "Site Logo"
+msgstr ""
+
+#: ../functions.php:140
+msgid "Upload a logo to replace the default site name in the header"
+msgstr ""
+
+#: ../functions.php:146
+msgid ""
+"Choose your logo (ideal width is 100-300px and ideal height is 40-100px)"
+msgstr ""
+
+#: ../functions.php:158
+msgid "Site Title Color"
+msgstr ""
+
+#: ../functions.php:170
+msgid "Theme Color Scheme"
+msgstr ""
+
+#: ../functions.php:182
+msgid "Navigation Bar and Footer Background Color"
+msgstr ""
+
+#: ../functions.php:191
+msgid "Social Media Icons"
+msgstr ""
+
+#: ../functions.php:193
+msgid "Optional social media buttons in the header"
+msgstr ""
+
+#: ../functions.php:199
+msgid "Enter your Facebook url"
+msgstr ""
+
+#: ../functions.php:208
+msgid "Enter your Twitter url"
+msgstr ""
+
+#: ../functions.php:217
+msgid "Enter your Google+ url"
+msgstr ""
+
+#: ../functions.php:226
+msgid "Enter your Pinterest url"
+msgstr ""
+
+#: ../functions.php:235
+msgid "Enter your Linkedin url"
+msgstr ""
+
+#: ../functions.php:244
+msgid "Enter your Youtube url"
+msgstr ""
+
+#: ../functions.php:253
+msgid "Enter your Tumblr url"
+msgstr ""
+
+#: ../functions.php:262
+msgid "Enter your Instagram url"
+msgstr ""
+
+#: ../functions.php:271
+msgid "Enter your Flickr url"
+msgstr ""
+
+#: ../functions.php:280
+msgid "Enter your Vimeo url"
+msgstr ""
+
+#: ../functions.php:289
+msgid "Enter your Yelp url"
+msgstr ""
+
+#: ../functions.php:298
+msgid "Enter your Open Table url"
+msgstr ""
+
+#: ../functions.php:307
+msgid "Enter your RSS url"
+msgstr ""
+
+#: ../functions.php:316
+msgid "Enter your Mailto url"
+msgstr ""
+
+#: ../functions.php:325
+msgid "Slider Options"
+msgstr ""
+
+#: ../functions.php:327
+msgid "Adjust the behavior of the image slider."
+msgstr ""
+
+#: ../functions.php:337
+msgid "Select Effect:"
+msgstr ""
+
+#: ../functions.php:351
+msgid "Autoplay Speed in Seconds"
+msgstr ""
+
+#: ../functions.php:446
+msgid "Sidebar Right"
+msgstr ""
+
+#: ../functions.php:455
+msgid "Sidebar Alt HomePage"
+msgstr ""
+
+#: ../functions.php:464
+msgid "Sidebar for Menu Template"
+msgstr ""
+
+#: ../functions.php:484
+msgid "Post navigation"
+msgstr ""
+
+#: ../functions.php:494
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../functions.php:498
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../functions.php:520
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions.php:520 ../functions.php:543
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:530
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../functions.php:533
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:541
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:584
+#, php-format
+msgid ""
+"<span class=\"sep meta-on\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" "
+"rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></"
+"a><span class=\"byline\"> <span class=\"sep meta-by\"> Posted </span> by "
+"<span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s"
+"\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+
+#: ../functions.php:590
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../functions.php:692
+#, php-format
+msgid "<div class=\"pagination\"><span>Page %1$s of %2$s</span>"
+msgstr ""
+
+#: ../functions.php:693
+#, php-format
+msgid "<a href=\"%1$s\">&laquo; First</a>"
+msgstr ""
+
+#: ../functions.php:694
+#, php-format
+msgid "<a href=\"%1$s\">&lsaquo; Previous</a>"
+msgstr ""
+
+#: ../functions.php:704
+#, php-format
+msgid "<a href=\"%1$s\">Next &rsaquo;</a>"
+msgstr ""
+
+#: ../functions.php:705
+#, php-format
+msgid "<a href=\"%1$s\">Last &raquo;</a>"
+msgstr ""
+
+#: ../functions.php:764
+msgid "Untitled"
+msgstr ""
+
+#: ../functions.php:845 ../library/class/class-tgm-plugin-activation.php:145
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions.php:846 ../library/class/class-tgm-plugin-activation.php:146
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions.php:847 ../library/class/class-tgm-plugin-activation.php:147
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions.php:848
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:859 ../library/class/class-tgm-plugin-activation.php:159
+#: ../library/class/class-tgm-plugin-activation.php:414
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions.php:860 ../library/class/class-tgm-plugin-activation.php:160
+#: ../library/class/class-tgm-plugin-activation.php:1546
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions.php:861
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../header.php:18
+msgid "x"
+msgstr ""
+
+#: ../header.php:36
+msgid "Facebook"
+msgstr ""
+
+#: ../header.php:40
+msgid "Twitter"
+msgstr ""
+
+#: ../header.php:44
+msgid "Google+"
+msgstr ""
+
+#: ../header.php:48
+msgid "Pinterest"
+msgstr ""
+
+#: ../header.php:52
+msgid "Linkedin"
+msgstr ""
+
+#: ../header.php:56
+msgid "Youtube"
+msgstr ""
+
+#: ../header.php:60
+msgid "Tumblr"
+msgstr ""
+
+#: ../header.php:64 ../header.php:68
+msgid "Instagram"
+msgstr ""
+
+#: ../header.php:72
+msgid "Vimeo"
+msgstr ""
+
+#: ../header.php:76
+msgid "Yelp"
+msgstr ""
+
+#: ../header.php:80
+msgid "Open Table"
+msgstr ""
+
+#: ../header.php:84
+msgid "RSS"
+msgstr ""
+
+#: ../header.php:88
+msgid "Email"
+msgstr ""
+
+#: ../header.php:96
+msgid "Main menu"
+msgstr ""
+
+#: ../header.php:97
+msgid "Skip to content"
+msgstr ""
+
+#: ../image.php:16
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s"
+"\">%2$s</abbr></span> at <a href=\"%3$s\" title=\"Link to full-size image\">"
+"%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel="
+"\"gallery\">%7$s</a>"
+msgstr ""
+
+#: ../image.php:30
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../image.php:31
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../image.php:84
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: ../image.php:86
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+#: ../image.php:88
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: ../image.php:90
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: ../menu-items-template-full.php:22 ../menu-items-template.php:22
+#: ../menu-sample.php:30
+msgid "Show All"
+msgstr ""
+
+#: ../menu-items-template-full.php:27 ../menu-items-template.php:27
+#: ../menu-sample.php:35
+#, php-format
+msgid ""
+"<li><a href=\"#\" data-filter=\".%1$s\" class=\"menu-filter-link\">%2$s</a></"
+"li>"
+msgstr ""
+
+#: ../menu-items-template-full.php:102 ../menu-items-template-full.php:118
+#: ../menu-items-template.php:100 ../menu-items-template.php:116
+msgid "No Menu Items Found!"
+msgstr ""
+
+#: ../menu-items-template-full.php:122 ../menu-items-template.php:120
+msgid ""
+"Please make sure that the Restaurateur Menu Item CPT Plugin is installed and "
+"activated."
+msgstr ""
+
+#: ../search.php:14
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../search.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../search.php:41
+msgid "Or you can try these links below."
+msgstr ""
+
+#: ../sidebar-home.php:12 ../sidebar-menu-item.php:11 ../sidebar.php:11
+msgid "Latest Posts"
+msgstr ""
+
+#: ../sidebar-home.php:20 ../sidebar-menu-item.php:19 ../sidebar.php:19
+msgid "View Post"
+msgstr ""
+
+#: ../sidebar-home.php:30 ../sidebar-menu-item.php:29 ../sidebar.php:29
+msgid "Categories"
+msgstr ""
+
+#: ../sidebar-home.php:47
+msgid "Recent Comments"
+msgstr ""
+
+#: ../tag.php:11
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:148
+msgid "Something went wrong."
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:161
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:438
+#: ../library/class/class-tgm-plugin-activation.php:1720
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:462
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:601
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:918
+msgid "External Link"
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:923
+msgid "Private Repository"
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:926
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:930
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:932
+msgid "Required"
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:932
+msgid "Recommended"
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:934
+msgid "Not Installed"
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:936
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1084
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1097
+msgid "Plugin"
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1098
+msgid "Source"
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1099
+msgid "Type"
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1100
+msgid "Status"
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1114
+msgid "Install"
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1115
+msgid "Activate"
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1532
+msgid "Install package not available."
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1533
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1534
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1535
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1536
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1537
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1545
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1636
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1637
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1637
+#: ../library/class/class-tgm-plugin-activation.php:1646
+msgid "Show Details"
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1637
+#: ../library/class/class-tgm-plugin-activation.php:1646
+msgid "Hide Details"
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1638
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1639
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1643
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1644
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1645
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1646
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1647
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../library/class/class-tgm-plugin-activation.php:1648
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
